@@ -1,0 +1,7 @@
+markdown: rdiscount
+permalink: /:year/:month/:title/
+url: http://chenhongbiao.github.com/en
+homepage: http://chenhongbiao.github.com
+author: Chen Hongbiao
+pygments: true
+

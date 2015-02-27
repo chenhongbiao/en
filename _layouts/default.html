@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+  <head>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta name="author" content="{{ site.author }}" />
+    <title>{{ page.title }} | {{ site.author }}</title>
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="{{ site.url }}/feed/" rel="alternate" title="{{ site.author }}" type="application/atom+xml" />
+    <link rel="stylesheet" media="screen and (min-width:876px)" href="/media/css/style.css"/>
+    <link rel="stylesheet" media="screen and (max-width:876px)" href="/media/css/tinystyle.css"/>
+    <link rel="stylesheet" href="/media/css/highlight.css">
+<script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
+ <link rel="stylesheet" href="/media/fancybox/source/jquery.fancybox.css?v=2.1.5" type="text/css" media="screen" />
+<script type="text/javascript" src="/media/fancybox/source/jquery.fancybox.pack.js?v=2.1.5"></script>
+ <script type="text/javascript">
+	$(document).ready(function() {
+		$(".fancybox").fancybox();
+	});
+</script>
+  </head>
+  <body>
+    <div id="container">
+      <div id="main" role="main">
+        <header>
+        <h1>{{ page.title }}</h1>
+        </header>
+        <nav>
+        <span><a title="home page" class="" href="{{ site.homepage }}/">home</a></span>
+        <span><a title="index" class="" href="{{ site.url }}/">index</a></span>
+        <span><a title="categories" class="" href="{{ site.url }}/categories/">categories</a></span>
+        <span><a title="tags" class="" href="{{ site.url }}/tags/">tags</a></span>
+<span><a title="vitae" class="" href="{{ site.url }}/vitae/">curriculum vitae</a></span>            
+<span><a title="subscribe by RSS" class="" href="{{ site.url }}/feed/">subscribe</a></span>
+<span><a title="about" class="" href="{{ site.url }}/about/">about</a></span>   
+        </nav>
+        <article class="content">
+        {{ content }}
+        </article>
+      </div>
+    </div>
+<script type="text/javascript" src="http://tajs.qq.com/stats?sId=40045081" charset="UTF-8"></script> 
+</body>
+</html>
