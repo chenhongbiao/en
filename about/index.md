@@ -10,7 +10,7 @@ HI!Just say HI,Cuz I'm so shy that can't think anything else to say.(='')
 
 ###Now
 
-Hello!(¨R-¨Q*)©f 
+Hello!(>-<*)_\
 
 I'm Chen Hongbiao,a sophomore in Computer science and technology at NorthEastern University, China.
 
@@ -20,9 +20,11 @@ I'm Chen Hongbiao,a sophomore in Computer science and technology at NorthEastern
 
 - Favorite Music: Dirty Paws 
 
-- Favorite Film: Leon: The Professional Favorite Programming language: of course C++ !
+- Favorite Film: Leon: The Professional 
 
-- Favorite ... Wait.What about you£¿Feel free to message me.
+- Favorite Programming language: of course C++ !
+
+- Favorite ... Wait,What about you?
 
 ###Thanks
 
