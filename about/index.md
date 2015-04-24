@@ -20,9 +20,9 @@ I'm Chen Hongbiao,a sophomore in Computer science and technology at NorthEastern
 
 - Favorite Music: Dirty Paws 
 
-- Favorite Film: L¨¦on: The Professional Favorite Programming language: of course C++ !
+- Favorite Film: Leon: The Professional Favorite Programming language: of course C++ !
 
-- Favorite ... Wait.What about you£¿Feel free to message me.¦Õ(¨R¦Ø¨Q*)?
+- Favorite ... Wait.What about you£¿Feel free to message me.
 
 ###Thanks
 
