@@ -45,6 +45,8 @@ Three things I have learnt:
 - Second: Try to find a partner with you. (My friend Bee always keeps me warm in the trip.)
 - Third:  Don not be afraid. The only one you have to fear is yourself.
 
-If you believe in yourself, nothing can stop you. Against All Odds. Thank you!
+If you believe in yourself, nothing can stop you. Against All Odds.
+
+Thank you!
 
 
