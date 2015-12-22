@@ -16,7 +16,9 @@ Good evening everyone! My name is Chen Hong Biao. You can call me Cat.
 
 I am a Chinese student, majoring computer science at Northeastern university. I am going to tell you a game about me. I have played this game for over ten years and I would like to share my experience with you. I am sure you will enjoy it.
 
-Since I was born in a remote village, I went to school two years later than other children. I was level 0 when I met other Lv2 classmates at primary school, Grade 5. Level refers to the rank of English. It can be roughly counted by how many years you have studied English. For example, I am Lv10 now and my English teacher is probably Lv 20. And because I was a total newbie at that time, (I had never hear English before – and knew nothing about it), my first fight was a nightmare. 30 points was my first English score. Luckily, I met a Great Sorceress (my first English teacher) who taught me how to fight from ABC to one two three. After learning English for two years, I succeeded in my graduation test by playing the role of a swordsman. Leveled up and went to middle school.
+Since I was born in a remote village, I went to school two years later than other children. I was level 0 when I met other Lv2 classmates at primary school, Grade 5. Level refers to the rank of English. It can be roughly counted by how many years you have studied English. For example, I am Lv10 now and my English teacher is probably Lv 20. And because I was a total newbie at that time, (I had never hear English before – and knew nothing about it), my first fight was a nightmare. 30 points was my first English score. 
+
+Luckily, I met a Great Sorceress (my first English teacher) who taught me how to fight from ABC to one two three. After learning English for two years, I succeeded in my graduation test by playing the role of a swordsman. Leveled up and went to middle school.
 
 *Why am I a sword man but not a wizard?*
 
@@ -30,7 +32,7 @@ However, I still failed in the Big War (IELTS). This dragon found my speaking we
 
 This has been my English Road. Learn knowledge, find problems, fight it and Level up. 
 
-*It was a bittersweet journey. *
+>It was a bittersweet journey.
 
 Three things I have learnt:
 
