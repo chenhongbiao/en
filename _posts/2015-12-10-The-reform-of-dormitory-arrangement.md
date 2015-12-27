@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: Choose your roommates - The reform of dormitory
+title: Choose your roommates - Dormitory reform
 category: Speaking
 tags: [Persuasive speech]
 matheq: no
@@ -13,9 +13,9 @@ Chen Hongbiao
 
 Computer Science 1303 Persuasive Speech
 
-Speech Title/ Topic: Give the right of choosing roommates to students
+Speech Title/Topic: Give the right of choosing roommates to students.
 
-General Purpose: To persuade
+General Purpose: To persuade.
 
 Specific Purpose: To persuade the audience that current system of dormitory assignment has great shortages. After hearing my speech, the audience will agree that there is a need of reform and they will take actions.
 
@@ -68,7 +68,7 @@ a. Let me make a clarification first. Is a quiet person more admirable than a co
 
 b. So how to design an ideal rule to avoid the problem? Well, I think we can draw on the experience of foreign universities such as Cornell University where students will be matched with roommates with compatible lifestyle preference profiles which they complete in the housing application. [^3]
  
-> For decades, some famous universities like Stanford believed that putting people in uncomfortable situations with a complete stranger was an essential learning part of college. But in recent years, universities have moved to more modern systems - by 2012, about 70 percent of schools have allowed incoming freshmen to select roommates based on a preference survey. Julie Weber, director of housing at New Mexico State, said "After choosing roommate by themselves, the number of students who asked to switch roommates dropped 40 percent, and the students' GPAs were higher." [^5]
+> For decades, some famous universities like Stanford believed that putting people in uncomfortable situations with a complete stranger was an essential learning part of college. But in recent years, universities have moved to more modern systems - by 2012, about 70 percent of schools have allowed incoming freshmen to select roommates based on a preference survey. Julie Weber, director of housing at New Mexico State, said "After choosing roommate by themselves, the number of students who asked to switch roommates dropped 40 percent, and the students' GPAs were higher." [^4]
 
 c. So from the experience of foreign universities, we can naturally conclude that an ideal dormitory assignment rule must include three parts as follows.
 
@@ -78,11 +78,11 @@ c. So from the experience of foreign universities, we can naturally conclude tha
 
 d. In fact, some domestic universities have begun to reform the dormitory assignment system following the above principles. And it also has proved that the reform is practical.
 
-- In 2014, Shanghai Jiao Tong University declared that every incoming freshman will be asked to list their preferences like sleeping habit for the room arrangement. [^6]
+- In 2014, Shanghai Jiao Tong University declared that every incoming freshman will be asked to list their preferences like sleeping habit for the room arrangement. [^5]
 
-- In 2015, Nanjing University of Science and Technology also announced that freshmen can use roommate matching program to help select their roommates. These reforms have made a promising results that students are more satisfied with dormitories and have more energy to take on campus life. [^7]
+- In 2015, Nanjing University of Science and Technology also announced that freshmen can use roommate matching program to help select their roommates. These reforms have made a promising results that students are more satisfied with dormitories and have more energy to take on campus life. [^6]
 
-III.	Conclusion
+###III. Conclusion
 
 ####1. Review
 
@@ -97,7 +97,7 @@ An ideal assignment system must be designed to help students choose their roomma
 To achieve the reform, I need your help. 
 The first thing I need you to do is to let more people know about this idea, especially students. 
 It is a truth that everyone has the right to pursue their happiness. 
-**Since you can choose your university, your major, your work, why you cannot choose your roommates?** 
+Since you can choose your university, your major, your work, **why you cannot choose your roommates?** 
 The second thing I need you to do is to send a letter to our school leaders. 
 This thing is simple because NEU has a website called [President Mail Box](http://president.neu.edu.cn/), but it need some courage. 
 However, I am glad to see from my class survey that 67 percent of you are brave enough to propose this idea to our headmaster. 
@@ -115,8 +115,8 @@ Let the school hear our voice! We will be remembered. Thank you!
 
 [^3]: Cornell-[How are roommates matched up?](https://living.sas.cornell.edu/live/movingin/NewUndergrads/housing-assignment-faqs.cfm)
 
-[^5]: Source: [Rollingstone - The New Science of Pairing College Roommates by Elisabeth Garber-Paul(2014)](http://www.rollingstone.com/culture/features/the-new-science-of-pairing-college-roommates-20140819)
+[^4]: Source: [Rollingstone - The New Science of Pairing College Roommates by Elisabeth Garber-Paul(2014)](http://www.rollingstone.com/culture/features/the-new-science-of-pairing-college-roommates-20140819)
 
-[^6]: Source: [China News (2014)](http://www.chinanews.com/edu/2014/09-04/6562734.shtml)
+[^5]: Source: [China News (2014)](http://www.chinanews.com/edu/2014/09-04/6562734.shtml)
 
-[^7]: Source: [Qian Jiang city by Meng Jiajiang (2015)](http://n.cztv.com/lanmei/1064422.html)
+[^6]: Source: [Qian Jiang city by Meng Jiajiang (2015)](http://n.cztv.com/lanmei/1064422.html)
