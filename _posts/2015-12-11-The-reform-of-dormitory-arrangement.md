@@ -3,11 +3,11 @@ layout: post
 title: Choose your roommates - The reform of dormitory
 category: Speaking
 tags: [Persuasive speech]
-matheq: yes
+matheq: no
 comments: yes
 toc: yes
 share: yes
-recentvisitors: yes
+recentvisitors: no
 ---
 Chen Hongbiao
 
@@ -68,7 +68,7 @@ a. Let me make a clarification first. Is a quiet person more admirable than a co
 
 b. So how to design an ideal rule to avoid the problem? Well, I think we can draw on the experience of foreign universities such as Cornell University where students will be matched with roommates with compatible lifestyle preference profiles which they complete in the housing application. [^3]
  
-> For decades, some famous universities like Stanford believed that putting people in uncomfortable situations with a complete stranger was an essential learning part of college. But in recent years, universities have moved to more modern systems - by 2012, about 70 percent of schools have allowed incoming freshmen to select roommates based on a preference survey. Julie Weber, director of housing at New Mexico State, said "After choosing roommate by themselves, the number of students who asked to switch roommates dropped 40 percent, and the students' GPAs were higher." [^4]
+> For decades, some famous universities like Stanford believed that putting people in uncomfortable situations with a complete stranger was an essential learning part of college. But in recent years, universities have moved to more modern systems - by 2012, about 70 percent of schools have allowed incoming freshmen to select roommates based on a preference survey. Julie Weber, director of housing at New Mexico State, said "After choosing roommate by themselves, the number of students who asked to switch roommates dropped 40 percent, and the students' GPAs were higher." [^5]
 
 c. So from the experience of foreign universities, we can naturally conclude that an ideal dormitory assignment rule must include three parts as follows.
 
@@ -78,9 +78,9 @@ c. So from the experience of foreign universities, we can naturally conclude tha
 
 d. In fact, some domestic universities have begun to reform the dormitory assignment system following the above principles. And it also has proved that the reform is practical.
 
-- In 2014, Shanghai Jiao Tong University declared that every incoming freshman will be asked to list their preferences like sleeping habit for the room arrangement. [^5]
+- In 2014, Shanghai Jiao Tong University declared that every incoming freshman will be asked to list their preferences like sleeping habit for the room arrangement. [^6]
 
-- In 2015, Nanjing University of Science and Technology also announced that freshmen can use roommate matching program to help select their roommates. These reforms have made a promising results that students are more satisfied with dormitories and have more energy to take on campus life. [^6]
+- In 2015, Nanjing University of Science and Technology also announced that freshmen can use roommate matching program to help select their roommates. These reforms have made a promising results that students are more satisfied with dormitories and have more energy to take on campus life. [^7]
 
 III.	Conclusion
 
@@ -114,9 +114,9 @@ Let the school hear our voice! We will be remembered. Thank you!
 [^2]: [Student dies after alleged poisoning attack By Chang Meng Source: Global Times (2013)](http://www.globaltimes.cn/content/775448.shtml)
 
 [^3]: Cornell-[How are roommates matched up?](https://living.sas.cornell.edu/live/movingin/NewUndergrads/housing-assignment-faqs.cfm)
- 
-[^4]: Source: [Rollingstone - The New Science of Pairing College Roommates by Elisabeth Garber-Paul(2014)](http://www.rollingstone.com/culture/features/the-new-science-of-pairing-college-roommates-20140819)
 
-[^5]: Source: [China News (2014)](http://www.chinanews.com/edu/2014/09-04/6562734.shtml)
+[^5]: Source: [Rollingstone - The New Science of Pairing College Roommates by Elisabeth Garber-Paul(2014)](http://www.rollingstone.com/culture/features/the-new-science-of-pairing-college-roommates-20140819)
 
-[^6]: Source: [Qian Jiang city by Meng Jiajiang (2015)](http://n.cztv.com/lanmei/1064422.html)
+[^6]: Source: [China News (2014)](http://www.chinanews.com/edu/2014/09-04/6562734.shtml)
+
+[^7]: Source: [Qian Jiang city by Meng Jiajiang (2015)](http://n.cztv.com/lanmei/1064422.html)
