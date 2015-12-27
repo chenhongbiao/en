@@ -109,6 +109,8 @@ Let the school hear our voice! We will be remembered. Thank you!
 
 ###References
 
+The footnote is wrong here. Maybe I should check my blog config.
+
 [^1]: D'LISA, A. S. (1988). The relationship between roommate rapport and social skills development of first semester female college freshmen (Doctoral dissertation, Texas Tech University).
 
 [^2]: [Student dies after alleged poisoning attack By Chang Meng Source: Global Times (2013)](http://www.globaltimes.cn/content/775448.shtml)
