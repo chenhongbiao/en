@@ -109,14 +109,14 @@ Let the school hear our voice! We will be remembered. Thank you!
 
 ###References
 
-[^1]:D'LISA, A. S. (1988). The relationship between roommate rapport and social skills development of first semester female college freshmen (Doctoral dissertation, Texas Tech University).
+[^1]: D'LISA, A. S. (1988). The relationship between roommate rapport and social skills development of first semester female college freshmen (Doctoral dissertation, Texas Tech University).
 
-[^2]:[Student dies after alleged poisoning attack By Chang Meng Source: Global Times (2013)](http://www.globaltimes.cn/content/775448.shtml)
+[^2]: [Student dies after alleged poisoning attack By Chang Meng Source: Global Times (2013)](http://www.globaltimes.cn/content/775448.shtml)
 
-[^3]:Cornell-[How are roommates matched up?](https://living.sas.cornell.edu/live/movingin/NewUndergrads/housing-assignment-faqs.cfm)
+[^3]: Cornell-[How are roommates matched up?](https://living.sas.cornell.edu/live/movingin/NewUndergrads/housing-assignment-faqs.cfm)
  
-[^4]:Source: [Rollingstone - The New Science of Pairing College Roommates by Elisabeth Garber-Paul(2014)](http://www.rollingstone.com/culture/features/the-new-science-of-pairing-college-roommates-20140819)
+[^4]: Source: [Rollingstone - The New Science of Pairing College Roommates by Elisabeth Garber-Paul(2014)](http://www.rollingstone.com/culture/features/the-new-science-of-pairing-college-roommates-20140819)
 
-[^5]:Source: [China News (2014)](http://www.chinanews.com/edu/2014/09-04/6562734.shtml)
+[^5]: Source: [China News (2014)](http://www.chinanews.com/edu/2014/09-04/6562734.shtml)
 
-[^6]:Source: [Qian Jiang city by Meng Jiajiang (2015)](http://n.cztv.com/lanmei/1064422.html)
+[^6]: Source: [Qian Jiang city by Meng Jiajiang (2015)](http://n.cztv.com/lanmei/1064422.html)
