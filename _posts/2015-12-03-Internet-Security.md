@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: Internet Security
+title: Maze - Internet Security
 category: Speaking
 tags: [Informative speech]
 matheq: no
@@ -9,7 +9,6 @@ toc: yes
 share: yes
 recentvisitors: yes
 ---
-##Internet Maze
 
 ![1-blank](http://ww2.sinaimg.cn/large/8935112bjw1ez8r1bia52j20zk0k0dmt.jpg)
 
@@ -25,7 +24,7 @@ There is no doubt that the development of the Internet has made our lives more c
 
 >Last month, NetEase 163 mail had a big deal. Over 100 million 163 emails were hacked.
 
-Since my major is computer science and technology and I have been interested in hacking skills for over three years, tonight, I would like to share something related to it. *Internet Security*
+Since my major is computer science and technology and I have been interested in hacking skills for over three years, tonight, I would like to share something related to it. - *Internet Security*
 
 ![5-ghost eye](http://ww4.sinaimg.cn/large/8935112bjw1ez8r3marcxj20zk0k0aes.jpg)
 
@@ -56,7 +55,7 @@ Got it? Remember the principle is that people are Lazy. Let us move on to Wi-Fi.
 
 ![121314-Wi-Fi](http://ww4.sinaimg.cn/large/8935112bjw1ez8rfmgocgj20zk0k0amg.jpg)
 
-Wi-Fi could be dangerous, too. When you think you are lucky to have a free Wi-Fi, maybe someone are spying on your information through the Free Wi-Fi. XD
+Wi-Fi could be dangerous, too. When you think you are lucky to have a free Wi-Fi, maybe someone are spying on your information through the Free Wi-Fi.
 
 - To do that, first, set a free Wi-Fi hotspot named CMCC or NEU.
 
@@ -68,8 +67,8 @@ Wi-Fi could be dangerous, too. When you think you are lucky to have a free Wi-Fi
 
 ![15-conclusion](http://ww4.sinaimg.cn/large/8935112bjw1ez8rhq5crrj20zk0k0n6e.jpg)
 
-Now you know two ways to attack other information.
-There are attacking passwords through default passwords, weak password and library crash and attacking Wi-Fi by building a free fishing hotspot. But don't forget our original purpose, to protect ourselves information. So the contrary ways are to set different strong passwords at different websites and to be wary of Free Wi-Fi.
+Now you know two ways to steal information.
+On the one hand, you can attack passwords through default passwords, weak password and library crash. On the other hand, you can attack Wi-Fi by building a free fishing hotspot. But don't forget our original purpose, to protect ourselves information. So the contrary ways are to set different strong passwords at different websites and to be wary of Free Wi-Fi.
 
 Keep your eye at your personal information. Thank you!
 
