@@ -1,7 +1,7 @@
 markdown: rdiscount
 permalink: /:year/:month/:title/
-url: http://hongbiao.me/en
-homepage: http://hongbiao.me
+url: http://chenhongbiao.github.io/en
+homepage: http://chenhongbiao.github.io/
 author: Chen Hongbiao
 pygments: true
 
