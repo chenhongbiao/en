@@ -1,4 +1,4 @@
-markdown: kramdown
+markdown: rdiscount
 permalink: /:year/:month/:title/
 url: http://chenhongbiao.github.io/en
 homepage: http://chenhongbiao.github.io/
