@@ -19,7 +19,7 @@ She is the person I miss so much. Her name is FF, and we were classmates, from p
 
 Although I don't have a good memory for my childhood, I can still remember the first time we met.
 
-It was an early autumn afternoon, just as the kapok flowers (木棉花) were beginning to fall.
+It was an early autumn afternoon, just as the kapok flowers were beginning to fall.
 
 When I was walking back to my house in the same way that I usually did, an unexpected person stopped me.
 

@@ -9,7 +9,6 @@ toc: yes
 share: yes
 recentvisitors: no
 ---
-###An Unexpected Guest
 
 >Every story should have an ending.
 
@@ -33,7 +32,7 @@ Then he turned around and said towards the sofa, "Riya, come here."
 
 "Wise choice," said the man and then walked straight to the direction of Riya.
 
-Suddenly, the man produced a sword from his cloak and chopped to Riya fiercely.
+Suddenly! The man produced a sword from his cloak and chopped to Riya fiercely.
 However, his sword was bounced off a green light and cut his head open!
 
 "Dream?" Riya asked herself, being shocked by what she saw.
@@ -85,4 +84,4 @@ Gradually, Alice calmed down.
 "Yeah. I must hurry," said Alice as she was sticking her hand into Faust’s body, "Every story should have an ending."
 "Believe it or not, the person who killed you isn’t me, is the author," said Alice coldly.
 
-"THE END IS NEVER THE END…"
+`"THE END IS NEVER THE END…"`
