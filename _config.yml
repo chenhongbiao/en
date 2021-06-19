@@ -1,7 +1,9 @@
-markdown: rdiscount
+#Jekyll configuration
+
+markdown: kramdown
 permalink: /:year/:month/:title/
-url: http://chenhongbiao.github.io/en
-homepage: http://chenhongbiao.github.io/
+url: https://chenhongbiao.github.io/en
+homepage: https://chenhongbiao.github.io
 author: Chen Hongbiao
 pygments: true
 
