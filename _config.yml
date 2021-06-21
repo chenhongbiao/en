@@ -1,6 +1,5 @@
 #Jekyll configuration
 
-
 markdown: kramdown
 permalink: /:year/:month/:title/
 url: https://chenhongbiao.github.io/en

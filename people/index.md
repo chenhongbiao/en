@@ -3,20 +3,20 @@ layout: page
 title: People
 ---
 
-# Based on Chen Hongbiao's memory
+## Based on Chen Hongbiao's memory
 
 I summary people in my memory below.
 
-## Friend
+### Friend
 
 
-## Advisor
+### Advisor
 
 
-## Teammate
+### Teammate
 
 
-## Best Animal
+### Best Animal
 
 WHO CAT
 GTC CAT
