@@ -14,6 +14,7 @@ List names in alphabetical order.
 
 | ![Jiatong](/media/pictures/Jiatong_avatar.jpg) | Jiatong |
 
+
 ### Friends 
 
 | ![Akshay](/media/pictures/Akshay_avatar.jpg) | Akshay |
@@ -21,6 +22,7 @@ List names in alphabetical order.
 | ![Ellen](/media/pictures/Ellen_avatar.jpg)   | Ellen  |
 | ![Ole](/media/pictures/Ole_avatar.jpg)       | Ole    |
 | ![Zeynep](/media/pictures/Zeynep_avatar.jpg) | Zeynep |
+
 
 ### Together
 
