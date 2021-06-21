@@ -23,5 +23,9 @@ List names in alphabetical order.
 | ![Zeynep](/media/pictures/Zeynep_avatar.jpg) | Zeynep |
 
 ### Together
-| ![GTC](/media/pictures/2018-GTC-retreat.jpg)      | 2018-GTC |
-| ![SIAT](/media/pictures/2016-SIAT-summercamp.jpg) | 2016-SIAT |
+
+![GTC](/media/pictures/2018-GTC-retreat.jpg)
+2018 GTC retreat
+
+![SIAT](/media/pictures/2016-SIAT-summercamp.jpg)
+2016 SIAT summer camp
