@@ -6,19 +6,19 @@ comments: no
 
 ### Self-introduction
 
-Hi! My name is Chen Hongbiao. I have a Master's degree in Computational Neuroscience from the University of Tübingen (Germany) and a Bachelor's degree in Computer Science from the Northeastern University (China). I'm studying and looking for a PhD position in Cognitive Computational Neuroscience now.
+Hi! My name is Chen Hongbiao. I have a Master's degree in Computational Neuroscience from the University of Tübingen (Germany) and a Bachelor's degree in Computer Science from the Northeastern University (China). I'm looking for a PhD position in Cognitive Computational Neuroscience now.
 
 My research interest lies at the intersection of modelling and analysis of systems & cognitive neuroscience.
 My ultimate goal is to understand the nature of human consciousness, i.e., what make me think and how can I think about thinking?
-I have a strong mathematical background, with professional skills for data analysis and signal processing, especially on electrophysiological data.
+I have a strong mathematical background, with professional skills for data analysis and signal processing, especially on electrophysiological data (like spike & LFP).
 
 My work experience include: 
 - computer vision (@[Prof. Zhang Tiancheng](http://faculty.neu.edu.cn/tczhang/english.html)), 
 - experimental neuroscience (@[Prof. Zhan Yang](http://bcbdi.siat.ac.cn/index.php/member/showMember/nid/81.shtml)), 
-- fMRI-LFP causal model (@Prof. Nikos Logothetis & [Dr. Michel Besserve](https://ei.is.tuebingen.mpg.de/person/besserve)),
+- fMRI-LFP causal model (@[Dr. Michel Besserve](https://ei.is.tuebingen.mpg.de/person/besserve)),
 - and spatial cognition (@[Prof. Andrea Burgalossi](https://www.burgalossilab.com/)).
 
-I would like to use machine learning and data modelling on electrophysiological and neuroimaging data (like iEEG/LFP/spike) to investigate high-level cognitive functions, such as cognitive control, generalized learning, and self-monitoring in consciousness.
+I would like to use machine learning and data-based modelling on electrophysiological and neuroimaging data to investigate high-level cognitive functions, such as cognitive control, generalized learning, and self-monitoring in consciousness.
 
 ### Know more about me
 
