@@ -1,7 +1,7 @@
 ---
 layout: post 
 title: Dormitory Reform - Choose your roommates
-tags: [Life-home]
+tags: [Lifestyle]
 matheq: no
 comments: yes
 toc: yes

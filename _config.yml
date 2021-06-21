@@ -3,7 +3,7 @@
 
 markdown: kramdown
 permalink: /:year/:month/:title/
-homeurl: https://chenhongbiao.github.io/en
+url: https://chenhongbiao.github.io/en
 author: Chen Hongbiao
 
 # pygments is unsupported now. use rouge instead. 

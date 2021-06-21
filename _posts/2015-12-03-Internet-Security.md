@@ -1,7 +1,7 @@
 ---
 layout: post 
 title: Internet Security - Maze
-tags: [Tech-net]
+tags: [Technology]
 matheq: no
 comments: no
 toc: yes
