@@ -1,10 +1,9 @@
 ---
 layout: post 
-title: Against All Odds - My English Road
-category: Speaking
-tags: [Introductory speech]
+title: My English Road - Against All Odds
+tags: [ESL-EN]
 matheq: no
-comments: yes
+comments: no
 toc: yes
 share: yes
 recentvisitors: yes
@@ -20,7 +19,7 @@ Since I was born in a remote village, I went to school two years later than othe
 
 Luckily, I met a Great Sorceress (my first English teacher) who taught me how to fight from ABC to one two three. After learning English for two years, I succeeded in my graduation test by playing the role of a swordsman. Leveled up and went to middle school.
 
-*Why am I a sword man but not a wizard?*
+**Why am I a sword man but not a wizard?**
 
 Because using a Memory Sword (just copying English) is easier than using a Logic Magic (understanding English).
 
@@ -37,9 +36,7 @@ This has been my English Road. Learn knowledge, find problems, fight it and Leve
 Three things I have learnt:
 
 - First: Try to understand English instead of memorizing it. Magic is always better than a sword.
-
 - Second: Try to find a partner with you. My friend Bee always keeps me warm on the trip.
-
 - Third: Don't be afraid. The only thing you have to fear is yourself. If you believe in yourself, nothing can stop you. `Against All Odds.` 
 
 Thank you!

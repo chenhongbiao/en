@@ -1,6 +1,6 @@
 ---
-title: index
 layout: page
+title: Index
 ---
 
 <ul class="listing">
@@ -10,13 +10,13 @@ layout: page
     {% assign year = y %}
     <li class="listing-seperator">{{ y }}</li>
   {% endif %}
-<li class="listing-item">
-<div class="item">
-   <div class="date" > <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time></div>
+  <li class="listing-item">
+   <div class="item">
+    <div class="date" > <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time></div>
     <div class="title" > <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></div>
-</div>
+   </div>
   </li>
-
 {% endfor %}
+
 </ul>
 

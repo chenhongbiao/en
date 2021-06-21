@@ -1,9 +1,12 @@
 #Jekyll configuration
 
+
 markdown: kramdown
 permalink: /:year/:month/:title/
-url: https://chenhongbiao.github.io/en
-homepage: https://chenhongbiao.github.io
+homeurl: https://chenhongbiao.github.io/en
 author: Chen Hongbiao
-pygments: true
+
+# pygments is unsupported now. use rouge instead. 
+pygments: false
+rouge: true
 

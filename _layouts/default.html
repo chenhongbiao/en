@@ -25,14 +25,12 @@
         <header>
         <h1>{{ page.title }}</h1>
         </header>
-        <nav>
-        <span><a title="home page" class="" href="{{ site.homepage }}/">home</a></span>
-        <span><a title="index" class="" href="{{ site.url }}/">index</a></span>
-        <span><a title="categories" class="" href="{{ site.url }}/categories/">categories</a></span>
-        <span><a title="tags" class="" href="{{ site.url }}/tags/">tags</a></span>
-<span><a title="vitae" class="" href="{{ site.url }}/vitae/">curriculum vitae</a></span>            
-<span><a title="subscribe by RSS" class="" href="{{ site.url }}/feed/">subscribe</a></span>
-<span><a title="about" class="" href="{{ site.url }}/about/">about</a></span>   
+        <nav>        
+        <span><a title="home" class="" href="{{site.homeurl}}/">home</a></span>
+        <span><a title="tag" class="" href="{{site.homeurl}}/tags/">tags</a></span>        
+        <span><a title="people" class="" href="{{site.homeurl}}/people/">people</a></span>
+        <span><a title="subscribe by RSS" class="" href="{{site.homeurl}}/feed/">subscribe</a></span>
+        <span><a title="about" class="" href="{{site.homeurl}}/about/">about</a></span>   
         </nav>
         <article class="content">
         {{ content }}

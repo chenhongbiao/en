@@ -1,6 +1,6 @@
 ---
-title: tags
 layout: page
+title: Tags
 ---
 
 <div id='tag_cloud'>
@@ -24,6 +24,7 @@ layout: page
 </ul>
 
 <script src="/media/js/jquery.tagcloud.js" type="text/javascript" charset="utf-8"></script> 
+
 <script language="javascript">
 $.fn.tagcloud.defaults = {
     size: {start: 1, end: 1, unit: 'em'},

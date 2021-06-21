@@ -1,13 +1,12 @@
 ---
 layout: post 
-title: Choose your roommates - Dormitory reform
-category: Speaking
-tags: [Persuasive speech]
+title: Dormitory Reform - Choose your roommates
+tags: [Life-home]
 matheq: no
 comments: yes
 toc: yes
 share: yes
-recentvisitors: no
+recentvisitors: yes
 ---
 Chen Hongbiao
 
@@ -25,27 +24,27 @@ Organizational Structure: Problem-Cause-Solution Pattern, Claim of Policy
 
 Thesis: The method of dormitory assignment is inconsiderate at many Chinese universities. The system needs to be reformed. 
 
-###I. Introduction
+### I. Introduction
 
-####1. Attention Getter
+#### 1. Attention Getter
 
 I would like to begin my speech by asking you some questions here: Have you ever got mad by your roommates' loud music at midnight? Have you ever been annoyed by your roommates' alarm clock buzzing in early morning? Have you ever thought why you were there? Have you ever thought what if you could choose your roommates at the beginning?
 
-####2. Narration
+#### 2. Narration
 
 If you answers are yes, you are not alone. China Youth Daily reports that about 68% interviewed university students have considered asking to change their dormitories because of the roommate conflicts. When they were asked about the best way to match roommates, the first answer is to match roommates based on their own personal lifestyle and their roommate preferences. There is no doubt that the interpersonal relationship in dormitory will significantly influence the quality of campus life which students experience for four years. The tense roommate relationships can harm students' well-being in both study and life.
 
-####3. Thesis&&Credibility
+#### 3. Thesis&&Credibility
 
 I deeply know how much harm it can do because I was once a victim. When I could not sleep due to my roommate's loud music, I was thinking about why I was there and try to find a radical solution. After reading a score of research papers for this topic and making a class survey, I am surprised to find that the inconsiderate dormitory assignment is a very common phenomenon and many schools pay scant attention to it for a long time.
 
-####4. Preview
+#### 4. Preview
 
 Tonight, we are going to discuss the problems caused by the current housing system at our school, and explore some effective solutions. Let us start by looking at the need for the reform of the dormitory assignment rules.
 
-###II. Body
+### II. Body
 
-####1.	Main Point A
+#### 1.	Main Point A
 
 The current dormitory assignment system has great shortage, which can harm students' physical and psychological growth.
 
@@ -60,7 +59,7 @@ b. What is worse, when you are suffering and intend to apply to change your room
 
 **Transition:** We have seen the seriousness of the problems caused by the current dormitory assignment system, now let us explore some solutions.
 
-####2.	Main Point B
+#### 2.	Main Point B
 
 Try to explore what is a reasonable dormitory assignment system.
 
@@ -79,20 +78,19 @@ c. So from the experience of foreign universities, we can naturally conclude tha
 d. In fact, some domestic universities have begun to reform the dormitory assignment system following the above principles. And it also has proved that the reform is practical.
 
 - In 2014, Shanghai Jiao Tong University declared that every incoming freshman will be asked to list their preferences like sleeping habit for the room arrangement. [^5]
-
 - In 2015, Nanjing University of Science and Technology also announced that freshmen can use roommate matching program to help select their roommates. These reforms have made a promising results that students are more satisfied with dormitories and have more energy to take on campus life. [^6]
 
-###III. Conclusion
+### III. Conclusion
 
-####1. Review
+#### 1. Review
 
 In conclusion, the current dormitory assignment rules should be reformed because it is likely to cause a tense living situation which will harm the students' physical and psychological health. 
 
-####2. Restatement of Thesis
+#### 2. Restatement of Thesis
 
 An ideal assignment system must be designed to help students choose their roommates, including preference survey, trial period and green channel.
 
-####3. Peroration
+#### 3. Peroration
 
 To achieve the reform, I need your help. 
 The first thing I need you to do is to let more people know about this idea, especially students. 
@@ -107,18 +105,12 @@ There will be no complaint in dormitory anymore.
 
 Let the school hear our voice! We will be remembered. Thank you!
 
-###References
+### References
 
 The footnote is wrong here. Maybe I should check my blog config.
-
 [^1]: D'LISA, A. S. (1988). The relationship between roommate rapport and social skills development of first semester female college freshmen (Doctoral dissertation, Texas Tech University).
-
 [^2]: [Student dies after alleged poisoning attack By Chang Meng Source: Global Times (2013)](http://www.globaltimes.cn/content/775448.shtml)
-
 [^3]: Cornell-[How are roommates matched up?](https://living.sas.cornell.edu/live/movingin/NewUndergrads/housing-assignment-faqs.cfm)
-
 [^4]: Source: [Rollingstone - The New Science of Pairing College Roommates by Elisabeth Garber-Paul(2014)](http://www.rollingstone.com/culture/features/the-new-science-of-pairing-college-roommates-20140819)
-
 [^5]: Source: [China News (2014)](http://www.chinanews.com/edu/2014/09-04/6562734.shtml)
-
 [^6]: Source: [Qian Jiang city by Meng Jiajiang (2015)](http://n.cztv.com/lanmei/1064422.html)

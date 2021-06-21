@@ -9,18 +9,22 @@ layout: default
 <section class="post">
 {{ content }}
 </section>
+
 <section class="meta">
 <span class="author">
   <a href="https://chenhongbiao.github.io/">{{ site.author }}</a>
 </span>
+
 <span class="time">
   /
   <time datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date:"%Y-%m-%d" }}</time>
 </span>
 <br />
+
 <span class="license">
   Published under <a rel="license" href="https://creativecommons.org/licenses/by/3.0/deed.en_US">(CC)</a>
 </span>
+
 {% if page.categories %}
 <span class="categories">
   in categories
@@ -29,6 +33,7 @@ layout: default
   {% endfor %}
 </span>
 {% endif %}
+
 {% if page.tags %}
 <span class="tags">
   tagged with 
