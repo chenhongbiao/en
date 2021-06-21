@@ -3,21 +3,25 @@ layout: page
 title: People
 ---
 
-## Based on Chen Hongbiao's memory
+## Loading Hongmeow's memory...
 
-I summary people in my memory below.
+List names in alphabetical order.
+- [ ] since 2018 (at GTC, Tuebingen)
+- [ ] since 2017 (at SIAT, Shenzhen)
+- [ ] since 2013 (at NEU, Shenyang)
 
-### Friend
+### Soulmate
 
+| ![Jiatong](/media/pictures/Jiatong_avatar.jpg) | Jiatong |
 
-### Advisor
+### Friends 
 
+| ![Akshay](/media/pictures/Akshay_avatar.jpg) | Akshay |
+| ![Carlos](/media/pictures/Carlos_avatar.jpg) | Carlos |
+| ![Ellen](/media/pictures/Ellen_avatar.jpg)   | Ellen  |
+| ![Ole](/media/pictures/Ole_avatar.jpg)       | Ole    |
+| ![Zeynep](/media/pictures/Zeynep_avatar.jpg) | Zeynep |
 
-### Teammate
-
-
-### Best Animal
-
-WHO CAT
-GTC CAT
-HOME CAT
+### Together
+| ![GTC](/media/pictures/2018-GTC-retreat.jpg)      | 2018-GTC |
+| ![SIAT](/media/pictures/2016-SIAT-summercamp.jpg) | 2016-SIAT |
