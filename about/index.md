@@ -25,7 +25,7 @@ I would like to use machine learning and data-based modelling on electrophysiolo
 - [Twitter](https://twitter.com/86chenhongbiao)
 - [LinkedIn](https://www.linkedin.com/in/chenhongbiao)
 - [Google Scholar](https://scholar.google.com/citations?user=6OHoHNoAAAAJ&hl)
-- [My Email](86chenhongbiao@gmail.com). Feel free to contact me if there are any problems.
+- [86chenhongbiao at gmail.com] Feel free to contact me if there are any problems.
 
 ### Acknowledgement
 
