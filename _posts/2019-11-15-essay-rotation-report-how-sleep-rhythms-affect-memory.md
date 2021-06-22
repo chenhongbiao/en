@@ -23,4 +23,4 @@ Sleep rhythms have a critical and active role in system memory consolidation,  e
 
 ### Presentation
 
-![Hong's essay rotation report](/media/resources/hongbiao-essay-rotation-how-sleep-rhythms-affect-memory-consolidation.pdf)
+[Hong's essay rotation report](/media/resources/hongbiao-essay-rotation-how-sleep-rhythms-affect-memory-consolidation.pdf)
