@@ -35,7 +35,7 @@ Afterwards, we build a realistic model of multimodal signals to estimate the loc
 The DML estimator is theoretical unbiased for estimating the interested treatment effect (TE) from one local LFP band to the local BOLD signal, i.e., the low-dimensional parameters in the local HRF, by removing all nuisance effects of confounders.
 In this thesis, we assume a linear time-invariant (LTI) system between the neural activity and the BOLD response, and implement the multi-treatment DML via EconML toolbox, where the local HRF is approximated by the LTI system's impulse response function.
 
-#### (4) final conclusions as the function of this paper and how can we get closer
+#### (4) final conclusions and how can we get closer
 Our experimental results demonstrate that the ensemble denoised approach can significantly reduce various noise effects to obtain high-quality Ephy signals with increased Signal-to-Noise Ratio (SNR) of ripple events, compared to a standard averaged artifact subtraction (AAS) method.
 On the simulated and real dataset, we show that the DML method is always a fair choice compared to the naive method for the local HRF estimation, though it's more computational expensive and the performance improvement is actually determined by the underlying model relationships.
 Given the complexity and nonlinearity of neural systems, we still recommend the DML method to estimate causal parameters and draw statistical inference about the local HRF, especially when multimodal signals of potential confounders are available.

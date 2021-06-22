@@ -51,11 +51,11 @@ The current dormitory assignment system has great shortage, which can harm stude
 a. As we all know, every year incoming freshmen at northeastern university will be placed into dormitories mainly based on their majors and classes. If you are lucky, you will be matched with roommates who have compatible lifestyles with yours and you will have a good time in your harmonious dormitory. Unfortunately, using this random assignment method, most of the students will suffer an issue of living with people who have incompatible lifestyles with them, which tends to cause conflicts in dormitory.
 
 - My class survey shows that 83 percent of you have been so annoyed by your roommates that you wanted to live in another room. In this case, the roommate relationship will become tenser and tenser because of the disputes between roommates about life habits such as bed times and noise levels in the room. And a strained dormitory environment can harm students’ physical and psychological well-being.
-- According to a paper about the relationship between roommate friendliness and social skills development, a poor roommate relationship can cause more physical illness, more psychological stress and less involvement in college activities. [^1]
+- According to a paper about the relationship between roommate friendliness and social skills development, a poor roommate relationship can cause more physical illness, more psychological stress and less involvement in college activities.[^1]
 
 b. What is worse, when you are suffering and intend to apply to change your room, the current dormitory regulation provides you with a complicated procedure and little chance of success. So the students have to endure a painful living circumstance where the accumulated complaints and decreased tolerance among roommates may lead to extreme tragedies.
 
-- It is hard to forget Fudan university poisoning case. In 2013, a Fudan University graduate student, Huang Yang, was poisoned to death by his roommate because of disharmonious roommate relationship. [^2]
+- It is hard to forget Fudan university poisoning case. In 2013, a Fudan University graduate student, Huang Yang, was poisoned to death by his roommate because of disharmonious roommate relationship.[^2]
 
 **Transition:** We have seen the seriousness of the problems caused by the current dormitory assignment system, now let us explore some solutions.
 
@@ -65,9 +65,9 @@ Try to explore what is a reasonable dormitory assignment system.
 
 a. Let me make a clarification first. Is a quiet person more admirable than a communicative person? Are early risers better than night owls? I do not know and we do not discuss them here. Because everybody has their own version of what is a satisfying life, there is nothing wrong with them. The problem is the random assignment rule, which is likely to assign these incompatible people the same room.
 
-b. So how to design an ideal rule to avoid the problem? Well, I think we can draw on the experience of foreign universities such as Cornell University where students will be matched with roommates with compatible lifestyle preference profiles which they complete in the housing application. [^3]
+b. So how to design an ideal rule to avoid the problem? Well, I think we can draw on the experience of foreign universities such as Cornell University where students will be matched with roommates with compatible lifestyle preference profiles which they complete in the housing application.[^3]
  
-> For decades, some famous universities like Stanford believed that putting people in uncomfortable situations with a complete stranger was an essential learning part of college. But in recent years, universities have moved to more modern systems - by 2012, about 70 percent of schools have allowed incoming freshmen to select roommates based on a preference survey. Julie Weber, director of housing at New Mexico State, said "After choosing roommate by themselves, the number of students who asked to switch roommates dropped 40 percent, and the students' GPAs were higher." [^4]
+> For decades, some famous universities like Stanford believed that putting people in uncomfortable situations with a complete stranger was an essential learning part of college. But in recent years, universities have moved to more modern systems - by 2012, about 70 percent of schools have allowed incoming freshmen to select roommates based on a preference survey. Julie Weber, director of housing at New Mexico State, said "After choosing roommate by themselves, the number of students who asked to switch roommates dropped 40 percent, and the students' GPAs were higher."[^4]
 
 c. So from the experience of foreign universities, we can naturally conclude that an ideal dormitory assignment rule must include three parts as follows.
 
@@ -77,8 +77,8 @@ c. So from the experience of foreign universities, we can naturally conclude tha
 
 d. In fact, some domestic universities have begun to reform the dormitory assignment system following the above principles. And it also has proved that the reform is practical.
 
-- In 2014, Shanghai Jiao Tong University declared that every incoming freshman will be asked to list their preferences like sleeping habit for the room arrangement. [^5]
-- In 2015, Nanjing University of Science and Technology also announced that freshmen can use roommate matching program to help select their roommates. These reforms have made a promising results that students are more satisfied with dormitories and have more energy to take on campus life. [^6]
+- In 2014, Shanghai Jiao Tong University declared that every incoming freshman will be asked to list their preferences like sleeping habit for the room arrangement.[^5]
+- In 2015, Nanjing University of Science and Technology also announced that freshmen can use roommate matching program to help select their roommates. These reforms have made a promising results that students are more satisfied with dormitories and have more energy to take on campus life.[^6]
 
 ### III. Conclusion
 
@@ -107,10 +107,14 @@ Let the school hear our voice! We will be remembered. Thank you!
 
 ### References
 
-The footnote is wrong here. Maybe I should check my blog config.
-[^1]: D'LISA, A. S. (1988). The relationship between roommate rapport and social skills development of first semester female college freshmen (Doctoral dissertation, Texas Tech University).
+[^1]: AndD'LISA, A. S. (1988). The relationship between roommate rapport and social skills development of first semester female college freshmen (Doctoral dissertation, Texas Tech University).
+
 [^2]: [Student dies after alleged poisoning attack By Chang Meng Source: Global Times (2013)](http://www.globaltimes.cn/content/775448.shtml)
+
 [^3]: Cornell-[How are roommates matched up?](https://living.sas.cornell.edu/live/movingin/NewUndergrads/housing-assignment-faqs.cfm)
+
 [^4]: Source: [Rollingstone - The New Science of Pairing College Roommates by Elisabeth Garber-Paul(2014)](http://www.rollingstone.com/culture/features/the-new-science-of-pairing-college-roommates-20140819)
+
 [^5]: Source: [China News (2014)](http://www.chinanews.com/edu/2014/09-04/6562734.shtml)
+
 [^6]: Source: [Qian Jiang city by Meng Jiajiang (2015)](http://n.cztv.com/lanmei/1064422.html)

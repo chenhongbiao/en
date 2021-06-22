@@ -9,13 +9,9 @@ share: yes
 recentvisitors: yes
 ---
 
-![1-blank](http://ww2.sinaimg.cn/large/8935112bjw1ez8r1bia52j20zk0k0dmt.jpg)
-
 Good evening, my name is Chen Hongbiao. You can call me Cat. 
 
 There is no doubt that the development of the Internet has made our lives more convenient than ever before, but it also has brought some problems.
-
-![234–data breach](http://ww1.sinaimg.cn/large/8935112bjw1ez8r26vwsbj20zk0k07dn.jpg)
 
 >In 2013, QQ was found that more than 70 million data had leaked on the Internet.
 >In 2014, 12306 website was accused that about 130 thousand personal information had been public.
@@ -23,19 +19,13 @@ There is no doubt that the development of the Internet has made our lives more c
 
 Since my major is computer science and technology and I have been interested in hacking skills for over three years, tonight, I would like to share something related to it. - *Internet Security*
 
-![5-ghost eye](http://ww4.sinaimg.cn/large/8935112bjw1ez8r3marcxj20zk0k0aes.jpg)
-
 According to the data breach investigations report, in 2015, 700 million personal records were stolen, sold, and made public by crackers. Crackers are bad hackers. Hackers work for skills and fun, while crackers work for money. They like to steal your network information and ruin it. Because the number of crackers has increased in recent years, the Internet has become more and more dangerous.
 
 So how can we protect our computers from crackers?
 
-![678-protect/attack your computer](http://ww4.sinaimg.cn/large/8935112bjw1ez8r6brtlbj20zk0k0tio.jpg)
-
 `(Well) I think the best way to learn how to defend is to learn how to attack.` Once you know how crackers steal your data, you can avoid it. So I am going to tell you two common ways to steal other information in our daily life. Let us start password first.
 
 ### Password
-
-![91011-cases](http://ww4.sinaimg.cn/large/8935112bjw1ez8rcv9at3j20zk0k0k24.jpg)
 
 Password, the only identification on the virtual world, from QQ to online bank, we use it everywhere. Obviously, it is very important, but it could be fragile if you are careless. If you want to crack other passwords, what should you do? It's easier than you think.
 
@@ -48,8 +38,6 @@ Got it? Remember the principle is that people are Lazy. Let us move on to Wi-Fi.
 
 ### Wi-Fi
 
-![121314-Wi-Fi](http://ww4.sinaimg.cn/large/8935112bjw1ez8rfmgocgj20zk0k0amg.jpg)
-
 Wi-Fi could be dangerous, too. When you think you are lucky to have a free Wi-Fi, maybe someone are spying on your information through the Free Wi-Fi.
 
 - To do that, first, set a free Wi-Fi hotspot named CMCC or NEU.
@@ -58,12 +46,8 @@ Wi-Fi could be dangerous, too. When you think you are lucky to have a free Wi-Fi
 
 ### Conclusion
 
-![15-conclusion](http://ww4.sinaimg.cn/large/8935112bjw1ez8rhq5crrj20zk0k0n6e.jpg)
-
 Now you know two ways to steal information.
 On the one hand, you can attack passwords through default passwords, weak password and library crash. On the other hand, you can attack Wi-Fi by building a free fishing hotspot. But don't forget our original purpose, to protect ourselves information. So the contrary ways are to set different strong passwords at different websites and to be wary of Free Wi-Fi.
 
 Keep your eye at your personal information. Thank you!
-
-![16-Internet eye](http://ww2.sinaimg.cn/large/8935112bjw1ez8rkusuqpj20zk0k0tfe.jpg)
 
