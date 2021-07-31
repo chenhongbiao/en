@@ -26,6 +26,7 @@ Institute of Brain Science-Shenzhen Fundamental Research Institutions, Shenzhen 
 
 ![Scibulletin screenshot](/media/pictures/2021-article-scibulletin-screenshot.jpg)
 screenshot from [Scibulletin webpage](https://www.sciencedirect.com/science/article/abs/pii/S2095927321003777)
+
 manuscript pdf available from [researchgate webpage](https://www.researchgate.net/profile/Wenxiu-Dong/publication/352019020_Characterization_of_exploratory_patterns_and_hippocampal-prefrontal_network_oscillations_during_the_emergence_of_free_exploration/links/60c35e634585157774c908a0/Characterization-of-exploratory-patterns-and-hippocampal-prefrontal-network-oscillations-during-the-emergence-of-free-exploration.pdf)
 
 ### Abstract
