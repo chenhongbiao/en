@@ -9,15 +9,17 @@ share: yes
 recentvisitors: yes
 ---
 
-- Author: Lingjun Ding,1,2,3 Hongbiao Chen,1,2,3 Maria Diamantaki,2,3 Stefano Coletta,2,3 Patricia Preston-Ferrer,1,2 and Andrea Burgalossi1,2
+- Author: Lingjun Ding,1,2,3 Hongbiao Chen,1,2,3 Maria Diamantaki,2,3 Stefano Coletta,2,3 Patricia Preston-Ferrer,1,2 Andrea Burgalossi,1,2
 - Date: July 22, 2020
 
 1. Institute of Neurobiology, University of Tübingen, Tübingen 72076, Germany, 
-2. Werner-Reichardt Centre for Integrative Neuroscience, Tübingen 72076, Germany, and 
+2. Werner-Reichardt Centre for Integrative Neuroscience, Tübingen 72076, Germany, 
 3. Graduate Training Centre of Neuroscience, IMPRS, Tübingen 72074, Germany
 
+### Download
+
 ![Jneurosci screenshot](/media/pictures/2020-article-jneurosci-screenshot.jpg)
-2020 article jneurosci screenshot from [Jneurosci webpage](https://www.jneurosci.org/content/40/30/5797)
+screenshot from [Jneurosci webpage](https://www.jneurosci.org/content/40/30/5797)
 
 ### Abstract
 
