@@ -18,7 +18,7 @@ Institute of Brain Science-Shenzhen Fundamental Research Institutions, Shenzhen 
 
 ### Download
 
-![Cerebral cortex screenshot](/media/pictures/2021_article_cerebralcortex_screenshot.jpg)
+![Cerebral cortex screenshot](/media/pictures/2021-article-cerebralcortex-screenshot.jpg)
 screenshot from [Cerebral cortex webpage](https://academic.oup.com/cercor/advance-article-abstract/doi/10.1093/cercor/bhab219/6323196)
 
 manuscript pdf coming soon...
