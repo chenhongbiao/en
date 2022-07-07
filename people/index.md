@@ -13,8 +13,6 @@ List names in alphabetical order.
 ### Soulmate
 
 | ![Hongbiao](/media/pictures/Hongbiao_avater.jpg) | Hongbiao |
-| ![Jiatong](/media/pictures/Jiatong_avatar.jpg) | Jiatong |
-
 
 ### Friends 
 
